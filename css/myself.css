@@ -1,0 +1,41 @@
+
+
+h2 {
+text-align:center;
+font-size:25px;
+font-color:white;
+font-family:("Arial black");
+}
+
+.desc {
+text-align:center;
+font-family:Georgia;
+font-size:18px;
+font-color:white;
+}
+
+.play {
+  font-family:Georgia;
+  font-size:18px;
+  font-color:white;
+}
+h4 {
+  font-family:Georgia;
+  font-size:18px;
+  font-color:white;
+}
+
+ul {
+  font-family:Georgia;
+  font-size:18px;
+  font-color:white;
+}
+.link {
+  color:green;
+}
+h2,h4,p,ul {
+  color:white;
+}
+body {
+    background-color:black;
+}
